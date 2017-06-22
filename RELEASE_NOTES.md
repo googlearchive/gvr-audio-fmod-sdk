@@ -1,4 +1,7 @@
 # Release Notes
+## GVR Audio FMOD SDK v0.5.0
+* Improved early-reflection rendering.
+* Performance optimizations.
 
 ## GVR Audio FMOD SDK v0.4.0
 * Improved HRTF rendering quality.

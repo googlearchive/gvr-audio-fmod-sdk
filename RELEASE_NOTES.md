@@ -1,5 +1,9 @@
 # Release Notes
 
+## GVR Audio FMOD SDK v0.6.1
+* Fixed processing of buffer size changes during run time.
+* Performance optimizations.
+
 ## GVR Audio FMOD SDK v0.6.0
 * Added "Custom", "Linear Squared" & "Logarithmic Tapered" distance rolloff
   models to the Google GVR Source plugin.

@@ -1,5 +1,5 @@
-# Google VR Audio SDK for [FMOD](http://www.fmod.org/)
+# [DEPRECATED] Google VR Audio SDK for [FMOD](http://www.fmod.org/)
 
-Enables high-quality spatial audio for VR on mobile and desktop platforms.
+This SDK was deprecated on 01/18/18. Please use [Resonance Audio SDK for FMOD](https://developers.google.com/resonance-audio/develop/fmod/getting-started) instead.
 
-Copyright (c) 2017 Google Inc. All rights reserved.
+Copyright (c) 2018 Google Inc. All rights reserved.
